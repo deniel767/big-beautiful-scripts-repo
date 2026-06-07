@@ -15,6 +15,7 @@ Only .env file is shared between scripts, otherwise all are standalone.
 │
 ├── all_the_words.py          # Module 1: Desktop Dictionary
 └── IBKR_api.py               # Module 2: Interactive Brokers Data Broker
+```
 
 
 1. all_the_words.py — Multi-Language Desktop Dictionary with Local Caching
